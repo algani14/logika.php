@@ -1,4 +1,4 @@
-<html>
+<title>
 <head><title>latihan form</title></head>
 <body>
 <pre>
@@ -10,4 +10,4 @@ Mapel 2 : <input type="text" name="mapel2"><br>
 </FORM>
 </pre>
 </body>
-</html>
+</title>
