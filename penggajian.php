@@ -1,24 +1,23 @@
 <html>
-<head><title>Pengolahan Form</title></head>
-<body>
-<h1><center>Tugas</center></h1>
-<FORM ACTION="hasil.php" METHOD="POST" NAME="input">
-<table>
-<tr>
-<td>Nama  </td>
- <td><input type="text" name="nm"><br></tr></td>
+    <head><title>Pengolahan Form</title></head>
+    <body>
+        <h1><center>Tugas</center></h1>
+            <FORM ACTION="hasil.php" METHOD="POST" NAME="input">
+                <table>
+                        <tr>
+                            <td>Nama  </td>
+                        <td><input type="text" name="nm"><br></tr></td>
 
- <tr>
-<td>NIP   </td>
-<td><Input type="number" name="nip"><br></tr></td>
+                        <tr>
+                            <td>NIP   </td>
+                            <td><Input type="number" name="nip"><br></tr></td>
 
 
-<tr>
-<td>Jenis kelamin </td>
-<td> <input type="radio" name="jenis" value="Lk" checked>
-Laki Laki 
-<input type="radio" name="jenis" value="pr"> Perempuan<br></tr></td>
-
+                        <tr>
+                            <td>Jenis kelamin </td>
+                            <td> <input type="radio" name="jenis" value="Lk" checked>
+                            Laki Laki 
+                            <input type="radio" name="jenis" value="pr"> Perempuan<br></tr></td>
 <tr>
 
 <tr>
